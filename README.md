@@ -1,3 +1,5 @@
+![](https://raw.github.com/brianmcallister/chilly-philly-style-guide/master/chilly-philly.png)
+
 chilly-philly-style-guide
 =========================
 
